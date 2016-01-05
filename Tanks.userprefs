@@ -1,11 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Tank/TankHealth.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Tank/TankShooting.cs">
     <Files>
       <File FileName="Assets/Scripts/Tank/TankMovement.cs" Line="47" Column="1" />
       <File FileName="Assets/Scripts/Camera/CameraControl.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/UI/UIDirectionControl.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Tank/TankHealth.cs" Line="68" Column="30" />
+      <File FileName="Assets/Scripts/Tank/TankHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Shell/ShellExplosion.cs" Line="65" Column="17" />
+      <File FileName="Assets/Scripts/Tank/TankShooting.cs" Line="83" Column="43" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
